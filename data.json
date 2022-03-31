@@ -1,0 +1,76 @@
+{
+    "projects": [
+        {
+            "id": 0,
+            "project_name": "Create a profile Page",
+            "description":["A Resume Page. This is my First functional project with Treehouse Techdegree."],
+            "technologies":["HTML", "CSS"],
+            "live_link":"https://karanbadhwar.github.io/Techdegree-project1/profile_page_v1",
+            "github_link":"https://github.com/karanbadhwar/Techdegree-project1",
+            "image_urls":["/static/images/1.png", "/static/images/1a.png"]
+        },
+        {
+            "id": 1,
+            "project_name": "Mobile First Responsive Layout with HTML and CSS",
+            "description":["A Mobile Responsive Portfolio webpage. This is my Second functional project with Treehouse Techdegree."],
+            "technologies":["HTML", "CSS"],
+            "live_link":"https://karanbadhwar.github.io/Techdegree-project2/",
+            "github_link":"https://github.com/karanbadhwar/Techdegree-project2",
+            "image_urls":["/static/images/2.png", "/static/images/2a.png"]
+        },
+        {
+            "id": 2,
+            "project_name": "Create a Responsive Registration Form",
+            "description":["A Responsive Form webpage. This form is responsive as well, this is my Third functional project with Treehouse Techdegree."],
+            "technologies":["HTML", "CSS"],
+            "live_link":"https://karanbadhwar.github.io/Techdegree-project3/",
+            "github_link":"https://github.com/karanbadhwar/Techdegree-project3",
+            "image_urls":["/static/images/3.png", "/static/images/3a.png"]
+        },
+        {
+            "id": 3,
+            "project_name": "Random Quote Generator",
+            "description":["A Random Quote Generator, on every click on the quote requested button. This is my forth and First(Javascript) functional project with Treehouse Techdegree."],
+            "technologies":["HTML", "CSS", "JAVASCRIPT"],
+            "live_link":"https://karanbadhwar.github.io/Techdegree-project4/",
+            "github_link":"https://github.com/karanbadhwar/Techdegree-project4",
+            "image_urls":["/static/images/4.png", "/static/images/4a.png"]
+        },
+        {
+            "id": 4,
+            "project_name": "A Word Guessing Game(Wheel Of Success)",
+            "description":["A Word guessing game, this game is fully functional. This is my Fifth functional project with Treehouse Techdegree."],
+            "technologies":["HTML", "CSS", "JAVASCRIPT"],
+            "live_link":"https://karanbadhwar.github.io/Techdegree-project5/",
+            "github_link":"https://github.com/karanbadhwar/Techdegree-project5",
+            "image_urls":["/static/images/5.png", "/static/images/5a.png"]
+        },
+        {
+            "id": 5,
+            "project_name": "Data Pagination and Filtering With JavaScript",
+            "description":["A Database for all the employees working. We can search through data page by page or even by searching their name or even few characters from their name, this is my Sixth functional project with Treehouse Techdegree."],
+            "technologies":["HTML", "CSS"],
+            "live_link":"https://karanbadhwar.github.io/Techdegree-project6/",
+            "github_link":"https://github.com/karanbadhwar/Techdegree-project6",
+            "image_urls":["/static/images/6.png", "/static/images/6a.png"]
+        },
+        {
+            "id": 6,
+            "project_name": "An Informative Form",
+            "description":["An Informative Form. A Courses Pruchase and personal info. form, Moreover it has Form Validation with appropriate messages ,this form is responsive as well, this is my Seventh functional project with Treehouse Techdegree."],
+            "technologies":["HTML", "CSS", "JAVASCRIPT"],
+            "live_link":"https://karanbadhwar.github.io/Techdegree-project7/",
+            "github_link":"https://github.com/karanbadhwar/Techdegree-project7",
+            "image_urls":["/static/images/7.png", "/static/images/7a.png"]
+        },
+        {
+            "id": 7,
+            "project_name": "Connect to and use a Public API",
+            "description":["Connecting to a public API and retrieve data of 12 random people and allowed searching through the data. This is my Eigth functional project with Treehouse Techdegree."],
+            "technologies":["HTML", "CSS", "JAVASCRIPT"],
+            "live_link":"https://karanbadhwar.github.io/Techdegree-project8/",
+            "github_link":"https://github.com/karanbadhwar/Techdegree-project8",
+            "image_urls":["/static/images/8.png", "/static/images/8a.png"]
+        }
+    ]
+}
