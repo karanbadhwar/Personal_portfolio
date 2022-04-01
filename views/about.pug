@@ -28,7 +28,7 @@ block content
         h6 Skills
 
         //- Replace skills below with your own skills — at this point, you should be able to list as many as ten skills
-        ul
+        ul#skillz
           li HTML
           li CSS
           li JavaScript
@@ -49,9 +49,12 @@ block content
           li kbb914@gmail.com
 
         //- Add URLs to the hrefs below to link to your social media accounts - feel free to use non-personal links to social media home pages if you prefer
-        a.btn-link(href='https://www.linkedin.com/in/karan-badhwar-3b466684/' target ="_blank") LinkedIn
-        a.btn-link(href='https://github.com/karanbadhwar' target="_blank") GitHub
-        a.btn-link(href='') Twitter
+        a.btn-link(href='https://www.linkedin.com/in/karan-badhwar-3b466684/' target ="_blank") LinkedIn <i class="fa-brands fa-linkedin iconZ"></i>
+        a.btn-link(href='https://github.com/karanbadhwar' target="_blank") GitHub <i class="fa-brands fa-github iconZ"></i>
+        a(href='#').btn-link
+          | Twitter 
+          i.fa-brands.fa-twitter.iconZ
+
 
     nav.nav
       a(href='/')

@@ -1,0 +1,15 @@
+extends layout.pug
+
+block content 
+  nav.nav
+    a(href='/home')
+     span &larr;
+      |  Back
+
+  article.portfolio-projects
+   .inner-wrapper.flex-row-wrap.two-col
+      .project-info-box.box 
+        h1#errH1 #{err.message[0]} #{err.status}
+        h3= err.message[1]
+        h4 Please try again later!
+        p.errstack= err.stack 
