@@ -15,7 +15,7 @@ const router = require('./routes/index');
 //     res.redirect('/home');
 // })
 
-// <------This is not working if i Comment out '/' route
+// <------This is not working even if i Comment out '/' route
 // app.use('/home', router);
 app.use('/', router);
 
