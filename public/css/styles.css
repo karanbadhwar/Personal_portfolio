@@ -259,8 +259,14 @@ nav a span {
   width: 100%;
   min-width: 100px;
   border: 4px solid #fff;
-  box-shadow: 0 0 0 1px rgba(10, 10, 10, 0.2);
+  box-shadow: 0 0 5px 5px rgba(10, 10, 10, 0.2);
+  transition: transform 300ms linear;
 }
+
+.cell img:hover{
+  transform: scale(1.025)
+}
+
 
 
 /* 
@@ -285,7 +291,11 @@ nav a span {
   max-width: 1065px;
   margin-bottom: 15px;
   border: 4px solid #fff;
-  box-shadow: 0 0 0 1px rgba(10, 10, 10, 0.2);
+  box-shadow: 0 0 5px 5px rgba(10, 10, 10, 0.5);
+  transition: transform 300ms linear;
+}
+.project-img:hover{
+  transform: scale(1.025);
 }
 
 .btn-link {
@@ -421,6 +431,7 @@ p.errstack {
     grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
   }
 }
+
 
 
 /* 

@@ -7,7 +7,7 @@
             "technologies":["HTML", "CSS"],
             "live_link":"https://karanbadhwar.github.io/Techdegree-project1/profile_page_v1",
             "github_link":"https://github.com/karanbadhwar/Techdegree-project1",
-            "image_urls":["/static/images/1.png", "/static/images/1a.png"]
+            "image_urls":["/static/images/1.png", "/static/images/1a.png", "/static/images/1b.png", "/static/images/1c.png"]
         },
         {
             "id": 1,
@@ -16,7 +16,7 @@
             "technologies":["HTML", "CSS"],
             "live_link":"https://karanbadhwar.github.io/Techdegree-project2/",
             "github_link":"https://github.com/karanbadhwar/Techdegree-project2",
-            "image_urls":["/static/images/2.png", "/static/images/2a.png"]
+            "image_urls":["/static/images/2.png", "/static/images/2a.png", "/static/images/2b.png", "/static/images/2c.png"]
         },
         {
             "id": 2,
@@ -25,7 +25,7 @@
             "technologies":["HTML", "CSS"],
             "live_link":"https://karanbadhwar.github.io/Techdegree-project3/",
             "github_link":"https://github.com/karanbadhwar/Techdegree-project3",
-            "image_urls":["/static/images/3.png", "/static/images/3a.png"]
+            "image_urls":["/static/images/3.png", "/static/images/3a.png", "/static/images/3b.png", "/static/images/3c.png"]
         },
         {
             "id": 3,
@@ -34,7 +34,7 @@
             "technologies":["HTML", "CSS", "JAVASCRIPT"],
             "live_link":"https://karanbadhwar.github.io/Techdegree-project4/",
             "github_link":"https://github.com/karanbadhwar/Techdegree-project4",
-            "image_urls":["/static/images/4.png", "/static/images/4a.png"]
+            "image_urls":["/static/images/4.png", "/static/images/4a.png", "/static/images/4b.png", "/static/images/4c.png"]
         },
         {
             "id": 4,
@@ -43,7 +43,7 @@
             "technologies":["HTML", "CSS", "JAVASCRIPT"],
             "live_link":"https://karanbadhwar.github.io/Techdegree-project5/",
             "github_link":"https://github.com/karanbadhwar/Techdegree-project5",
-            "image_urls":["/static/images/5.png", "/static/images/5a.png"]
+            "image_urls":["/static/images/5.png", "/static/images/5a.png", "/static/images/5b.png", "/static/images/5c.png"]
         },
         {
             "id": 5,
@@ -52,7 +52,7 @@
             "technologies":["HTML", "CSS"],
             "live_link":"https://karanbadhwar.github.io/Techdegree-project6/",
             "github_link":"https://github.com/karanbadhwar/Techdegree-project6",
-            "image_urls":["/static/images/6.png", "/static/images/6a.png"]
+            "image_urls":["/static/images/6.png", "/static/images/6a.png", "/static/images/6b.png", "/static/images/6c.png"]
         },
         {
             "id": 6,
@@ -61,7 +61,7 @@
             "technologies":["HTML", "CSS", "JAVASCRIPT"],
             "live_link":"https://karanbadhwar.github.io/Techdegree-project7/",
             "github_link":"https://github.com/karanbadhwar/Techdegree-project7",
-            "image_urls":["/static/images/7.png", "/static/images/7a.png"]
+            "image_urls":["/static/images/7.png", "/static/images/7a.png", "/static/images/7b.png", "/static/images/7c.png"]
         },
         {
             "id": 7,
@@ -70,7 +70,16 @@
             "technologies":["HTML", "CSS", "JAVASCRIPT"],
             "live_link":"https://karanbadhwar.github.io/Techdegree-project8/",
             "github_link":"https://github.com/karanbadhwar/Techdegree-project8",
-            "image_urls":["/static/images/8.png", "/static/images/8a.png"]
+            "image_urls":["/static/images/8.png", "/static/images/8a.png", "/static/images/8b.png", "/static/images/8c.png"]
+        },
+        {
+            "id":8,
+            "project_name": "CSS Animation",
+            "description":["A basic 3d model, made with just css. A image revolving in the 3d zone which revolves 360(deg) and display 4 images in total. "],
+            "technologies":["HTML", "CSS", "JAVASCRIPT"],
+            "live_link":"https://karanbadhwar.github.io/css-animation/",
+            "github_link":"https://github.com/karanbadhwar/css-animation",
+            "image_urls":["/static/images/9.png", "/static/images/9.png", "/static/images/9b.png", "/static/images/9c.png"]
         }
     ]
 }
