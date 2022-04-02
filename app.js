@@ -10,13 +10,6 @@ app.use('/static', express.static('public'));
 // routes
 const router = require('./routes/index');
 
-//<-------This route is not letting me redirect or go to other routes
-// app.use('/', (req,res) => {
-//     res.redirect('/home');
-// })
-
-// <------This is not working even if i Comment out '/' route
-// app.use('/home', router);
 app.use('/', router);
 
 app.get('/', (req,res) => {
