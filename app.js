@@ -19,6 +19,9 @@ const router = require('./routes/index');
 // app.use('/home', router);
 app.use('/', router);
 
+app.get('/', (req,res) => {
+         res.redirect('/home');
+     })
 
 app.use((req,res,next) =>{
     const err = new Error();
